@@ -19,3 +19,9 @@ Evaluate delivery punctuality and support data-driven decisions to improve logis
 ## Dashboard Output
 The interactive dashboard provides a clear overview of delivery performance and highlights areas requiring operational improvement.
 
+#Live Dashboard
+You can explore the interactive Tableau dashboard here:
+
+- https://public.tableau.com/views/On-timePerformanceDashboardLogisticsOperations/On-timePerformanceDashboardJanuary2022
+
+
